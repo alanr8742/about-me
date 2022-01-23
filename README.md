@@ -1,7 +1,7 @@
-# about-me
+# 1. about-me
 ### _Alan Rivera_
 
-###### Email: alanr8742@hstat.org
+###### 2. Email: alanr8742@hstat.org
 
 ### Bio: I am a high school student attenting HSTAT (High Schol of telecommunication arts and technology)
 
