@@ -3,7 +3,7 @@
 
 ###### Email: alanr8742@hstat.org
 
-### Bio: I am a high school student attenting HSTAT (High Schol of telecommunication arts and technology)
+### - Bio: I am a high school student attenting HSTAT (High Schol of telecommunication arts and technology)
 
 # 1. Schedule: 6:45 AM, 
 2. I wake up. 7:25, 
